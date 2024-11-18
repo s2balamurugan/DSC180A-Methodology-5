@@ -1,4 +1,4 @@
-# Welcome to My Methodology Assignment 5 Site
+# Welcome to My Methodology Assignment 5 Website
 
 **Name:** Sai Poornasree Balamurugan  
 **Email:** s2balamurugan@ucsd.edu  
